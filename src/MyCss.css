@@ -1,1 +1,59 @@
+h1
+{
+  color:black;
+  background-color: darkgray;
+  text-align: left;
+  padding: 10px;
+  padding-left: 50px;
+  /* margin-right: 1100px; */
+}
+    p
+    {
+    color:black;
+    background-color: darkgray;
+    text-align: left;
+    padding: 10px;
+    padding-left: 50px;
+    /* margin-right: 1100px; */
+    }
+    b
+    {
+    color:black;
+    background-color:lightsalmon;
+    text-align: left;
+    
+    margin: 120px;
+    width: "100%";
+    }
 
+.MyTable
+{
+
+    border: 2px solid black;
+    width: 60%;
+    /* margin-right: 70px; */
+
+}
+
+td
+{
+    border: 1px solid black;
+    background-color: cadetblue;
+    
+}
+
+tr
+{
+    border: 1px solid black;
+    
+}
+
+.rutuja
+{
+    margin-left: 300px;
+    margin-right: 400px;
+    /* padding-left: 20px; */
+    background-color:khaki;
+    padding-top: 30px;
+
+}
